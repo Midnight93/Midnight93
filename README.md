@@ -13,7 +13,7 @@
   * <a href="https://github.com/ultralytics/yolov5" target="blank"><img align="center" src="./media/ma.png" alt="123" height="30" width="-1" /></a> YoloV5
   * <a href="https://opencv.org/" target="blank"><img align="center" src="./media/micro.png" alt="123" height="30" width="-1" /></a> OpenCV
   * <a href="https://www.tensorflow.org/" target="blank"><img align="center" src="./media/tens.png" alt="123" height="30" width="-1" /></a> Tensorflow
-  * * <a href="https://spark.apache.org/docs/latest/api/python/" target="blank"><img align="center" src="./media/ma1.png" alt="123" height="30" width="-1" /></a> PySpark
+  * <a href="https://spark.apache.org/docs/latest/api/python/" target="blank"><img align="center" src="./media/ma1.png" alt="123" height="30" width="-1" /></a> PySpark
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
