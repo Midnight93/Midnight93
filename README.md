@@ -8,10 +8,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Midnight93&theme=nord" alt="Midnight93" /></a> </p>
 
+## Favorite Software Libraries
+
+  * <a href="https://github.com/ultralytics/yolov5" target="blank"><img align="center" src="./media/ma.png" alt="123" height="30" width="-1" /></a> YoloV5
+  * <a href="https://opencv.org/" target="blank"><img align="center" src="./media/micro.png" alt="123" height="30" width="-1" /></a> OpenCV
+  * <a href="https://www.tensorflow.org/" target="blank"><img align="center" src="./media/tens.png" alt="123" height="30" width="-1" /></a> Tensorflow
+  * * <a href="https://spark.apache.org/docs/latest/api/python/" target="blank"><img align="center" src="./media/ma1.png" alt="123" height="30" width="-1" /></a> PySpark
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/edoardopiccari/" target="blank"><img align="center" src="./media/Linkedin_icon.png" alt="123" height="30" width="-1" /></a>
+<a href="https://hub.docker.com/r/edopic/" target="blank"><img align="center" src="./media/Moby-logo.png" alt="123" height="30" width="-1" /></a>
+<a href="https://www.facebook.com/edoardo.piccari.9/" target="blank"><img align="center" src="./media/facebook-circled.png" alt="123" height="30" width="-1" /></a>
 </p>
 
 
