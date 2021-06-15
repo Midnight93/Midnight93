@@ -15,8 +15,9 @@
   * <a href="https://www.tensorflow.org/" target="blank"><img align="center" src="./media/tens.png" alt="123" height="30" width="-1" /></a> Tensorflow
   * <a href="https://spark.apache.org/docs/latest/api/python/" target="blank"><img align="center" src="./media/ma1.png" alt="123" height="30" width="-1" /></a> PySpark
 
+## 🦉Connect with me 
+
 <p align="left">
-<h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/edoardopiccari/" target="blank"><img align="center" src="./media/Linkedin_icon.png" alt="123" height="30" width="-1" /></a>
 <a href="https://hub.docker.com/r/edopic/" target="blank"><img align="center" src="./media/Moby-logo.png" alt="123" height="30" width="-1" /></a>
 <a href="https://www.facebook.com/edoardo.piccari.9/" target="blank"><img align="center" src="./media/Facebook_f_logo_(2019).svg" alt="123" height="30" width="-1" /></a>
