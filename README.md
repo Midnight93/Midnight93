@@ -23,6 +23,15 @@
 <a href="https://www.facebook.com/edoardo.piccari.9/" target="blank"><img align="center" src="./media/Facebook_f_logo_(2019).svg" alt="123" height="30" width="-1" /></a>
 </p>
 
+## ⚜️Certification
+
+* Salesforce Certified Platform Developer I (SP16)
+* Salesforce Certified Administrator (SP16)
+* Apache Spark - ELIS
+* ROS for Beginners: Basics, Motion, and OpenCV - Udemy
+* Python Course - AKT srl
+* GDPR - Regolamento europeo (2016/679)
+* Docker Mastery: with Kubernetes +Swarm from a Docker Captain - Udemy
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight93&layout=compact&show_icons=true&theme=nord&count_private=true" alt="Midnight93" /></p>
