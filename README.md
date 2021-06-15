@@ -8,6 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Midnight93&theme=nord" alt="Midnight93" /></a> </p>
 
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/edoardopiccari/" target="blank"><img align="center" src="./media/Linkedin_icon.png" alt="123" height="30" width="-1" /></a>
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight93&layout=compact&show_icons=true&theme=nord&count_private=true" alt="Midnight93" /></p>
 
