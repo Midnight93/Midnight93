@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤗, I'm Edoardo Piccari</h1>
-<h3 align="center">🌌 Earth Observation Software Developer at <a href="https://www.aresys.it/">Aresys</a></h3>
+<h3 align="center">🌌 Earth Observation Software Developer</h3>
 
 <p align="center"> <img src="./media/giphy.gif" /> </p>
 
